@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>My Blog</title>
+    <link>file://localhost/Users/jeremylaskar/Desktop/CST400/Blog/Blog.html</link>
+    <description> </description>
+    <generator>iWeb 2.0.3</generator>
+    <item>
+      <title>Proposal Complete (Week 13)</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST400/Blog/Entries/2007/12/6_Proposal_Complete_%28Week_13%29.html</link>
+      <guid isPermaLink="false">379156e5-8bb7-4cee-aa86-a55e91e0cfd8</guid>
+      <pubDate>Thu, 6 Dec 2007 21:57:13 -0800</pubDate>
+      <description>Well, I think this new capstone has come to fruition quickly, and I am wrapping up this semester quite well.  I have spoken with my advisor, Andrew Coile, who likes the idea of the new project and sees quite a demand for a mobile web editor.  In addition, he is experienced in PHP and AJAX, and so will be great to turn to when I’m stuck at a point - and with the work I have set out for myself, I will definitely be stuck at some points. I have sent my final proposal to Cuban Council for review, and they, too, think it looks like a promising project which solves a real need in the web development community.  I give my status report tomorrow, and will able to report with confidence that everything is on track and my proposal has been completed successfully.</description>
+    </item>
+    <item>
+      <title>Caught Up! (Week 12)</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST400/Blog/Entries/2007/11/30_Caught_Up%21.html</link>
+      <guid isPermaLink="false">b7236c71-fb08-4c70-a54c-49349fa6e7a4</guid>
+      <pubDate>Fri, 30 Nov 2007 21:38:36 -0800</pubDate>
+      <description>Fall Break has come and gone, and I think I am now nearly caught up on all of my capstone work.  I have finished redoing my proposal and recieved it back from Dr. Su with changes and revisions, which I am making now.  After this, I still need to do my executive summary, and then my proposal will be complete!&lt;br/&gt;    As far as the project itself, I have started work on the initial phases of planning and development. I have done research on the technologies and methods I am going to use to build the application, and I have started doing sketches of the UI and functions, to visualize how to best take advantage of the limited screen real estate of an iPhone. </description>
+    </item>
+    <item>
+      <title>Rebuilding the Semester (Week 11)</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST400/Blog/Entries/2007/11/16_Rebuilding_the_Semester_%28Week_11%29.html</link>
+      <guid isPermaLink="false">aed8f4b5-2757-40af-9599-63613176b0a7</guid>
+      <pubDate>Fri, 16 Nov 2007 21:22:48 -0800</pubDate>
+      <description>I’m just starting work on rewriting my capstone proposal.  My hope is that with a lot of effort over the fall break next week, I should be back and caught up with the rest of the class by the end of November.  &lt;br/&gt;    In addition, I have also started researching technologies that will help me put together my project.  I have come to the conclusion that, due to the limitations of the MobileSafari browser, the entirety of my project will need to be in PHP and Javascript.  To that extent, however, I can find examples of all the components I want my project to have, specificially FTP access and file editing, online today.  These proofs of concept give me assurance that I will be able to complete this project, since there are already examples of the technology needed to develop it on the internet today.</description>
+    </item>
+    <item>
+      <title>Square One (Week 10)</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST400/Blog/Entries/2007/11/9_Square_One_%28Week_10%29.html</link>
+      <guid isPermaLink="false">2ce12678-4210-4d25-ac0b-a1e1e1f64df5</guid>
+      <pubDate>Fri, 9 Nov 2007 21:17:23 -0800</pubDate>
+      <description>Well, it looks like I will be building the mobile web interface, which i have dubbed Codile (a combination of Mobile and Code) as my new capstone project.  Both my employers and I are excited to see the work I can produce, as well as for the end result, an application which there is a real need for in the developer community.   &lt;br/&gt;    However, deciding to change the project was the easy part. Now, I have to start re-doing 3 months of work from this class, to reflect the new capstone project instead of my previous one.  I am lucky, and have fall break coming up to concentrate on it, but it is still an overwhelming amount of work to complete in a small amount of time. </description>
+    </item>
+    <item>
+      <title>A New Opportunity (Week 9)</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST400/Blog/Entries/2007/11/2_Putting_things_in_perspective_%28Week_8%29_2.html</link>
+      <guid isPermaLink="false">1c81edfc-c1d4-4c53-bd95-080236cd56c0</guid>
+      <pubDate>Fri, 2 Nov 2007 21:07:34 -0700</pubDate>
+      <description>This week, I had a new opportunity come to me from straight out of nowhere.  A previous employer, &lt;a href=&quot;http://www.cubancouncil.com/&quot;&gt;Cuban Council&lt;/a&gt;, offered me an opportunity to work on a project for them, one which also had all the requirements to serve as a capstone as well.  As a result, I am considering changing my capstone to accomodate this project.&lt;br/&gt;    The project is a mobile web development environment, programmed to run in a browser on an iPhone. The program will be able to access files on a remote site for editing, so that the user can make quick changes to sites, on the go. It’s a really cool idea, and will be a valuable addition to my web development portfolio.  It has all of the tenets of a capstone - a programming aspect, solving a problem for a client, and keeping the theme and style of the iPhone intact with the application UI. I’m excited to learn more about what my client wants, so that I can begin the switch to this as my new capstone project. </description>
+    </item>
+  </channel>
+</rss>

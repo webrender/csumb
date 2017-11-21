@@ -1,0 +1,35 @@
+.graphic_generic_title_textbox_style_default {
+    background: transparent;
+    float: none;
+    margin: 0px;
+    opacity: 1.00;
+}
+.graphic_navigationbar_style_default {
+    background: transparent;
+    float: none;
+    margin: 0px;
+    opacity: 1.00;
+}
+a {
+    color: #ffffff;
+    text-decoration: underline;
+}
+a:visited {
+    color: #969696;
+    text-decoration: underline;
+}
+a:hover {
+    color: #b0b0b0;
+    text-decoration: underline;
+}
+div {
+    overflow: visible;
+}
+img {
+    border: none;
+}
+.InlineBlock {display: inline; }
+.InlineBlock {display: inline-block; }
+.tinyText {
+    font-size: 1px;
+}

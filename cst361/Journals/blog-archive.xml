@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Journals</title>
+    <link>http://www.webrender.net/CST361/Journals</link>
+    <description></description>
+    <item>
+      <title>Journal 6</title>
+      <link>http://www.webrender.net/CST361/Journals/Entries/2008/5/1_Journal_6.html</link>
+      <guid isPermaLink="false">b47ccb64-a5c8-455b-a24b-cd85b6432fc7</guid>
+      <pubDate>Thu, 1 May 2008 22:11:28 -0700</pubDate>
+      <iweb:comment link="http://www.webrender.net/CST361/Journals/Entries/2008/5/1_Journal_6.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Journal 5</title>
+      <link>http://www.webrender.net/CST361/Journals/Entries/2008/4/13_Journal_5.html</link>
+      <guid isPermaLink="false">cbadf956-fca0-4647-a33b-9e21ec2ff6f3</guid>
+      <pubDate>Sun, 13 Apr 2008 22:11:26 -0700</pubDate>
+      <iweb:comment link="http://www.webrender.net/CST361/Journals/Entries/2008/4/13_Journal_5.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Journal 4</title>
+      <link>http://www.webrender.net/CST361/Journals/Entries/2008/3/31_Journal_.html</link>
+      <guid isPermaLink="false">6286f866-3a2e-4ebf-959a-79a137c83bd0</guid>
+      <pubDate>Mon, 31 Mar 2008 22:11:24 -0700</pubDate>
+      <iweb:comment link="http://www.webrender.net/CST361/Journals/Entries/2008/3/31_Journal_.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Journal 3</title>
+      <link>http://www.webrender.net/CST361/Journals/Entries/2008/3/7_Journal_3.html</link>
+      <guid isPermaLink="false">d4ca0b43-aef3-45a0-977c-290546ebe91b</guid>
+      <pubDate>Fri, 7 Mar 2008 22:11:23 -0800</pubDate>
+      <iweb:comment link="http://www.webrender.net/CST361/Journals/Entries/2008/3/7_Journal_3.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Journal 2</title>
+      <link>http://www.webrender.net/CST361/Journals/Entries/2008/2/18_Journal_2.html</link>
+      <guid isPermaLink="false">bb210d25-0989-4c32-bfef-a3b522f793ac</guid>
+      <pubDate>Mon, 18 Feb 2008 22:11:21 -0800</pubDate>
+      <iweb:comment link="http://www.webrender.net/CST361/Journals/Entries/2008/2/18_Journal_2.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Journal 1</title>
+      <link>http://www.webrender.net/CST361/Journals/Entries/2008/2/11_Journal_1.html</link>
+      <guid isPermaLink="false">8eb60f3a-3f3c-4b32-ae63-d20a07769606</guid>
+      <pubDate>Mon, 11 Feb 2008 22:09:16 -0800</pubDate>
+      <iweb:comment link="http://www.webrender.net/CST361/Journals/Entries/2008/2/11_Journal_1.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.webrender.net/CST361/Journals</iweb:baseURL>
+    <iweb:maximumSummaryItems>18</iweb:maximumSummaryItems>
+  </channel>
+</rss>

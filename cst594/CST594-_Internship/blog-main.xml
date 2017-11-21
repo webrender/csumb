@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>CST594: Internship</title>
+    <link>http://www.webrender.net/CST594/CST594:_Internship</link>
+    <description>Jeremy Laskar
+Spring 2008</description>
+    <item>
+      <title>Week 9: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/4/24_Week_9%3A_Blog.html</link>
+      <guid isPermaLink="false">6a5e8574-26c9-43f2-80e1-e6b9a31d61e9</guid>
+      <pubDate>Thu, 24 Apr 2008 21:35:08 -0700</pubDate>
+      <description>WOW! It&#x2019;s definitely crunch time on my project right now, and the coding is getting hectic.  After finding a major stumbling block in the code editor, Andrew and I have managed to get around it and finish up the programming.  All that is left is bug fixes for a complete project - and, of course, all my other work.  I&#x2019;ve spent so much time on my project lately that I barely have time to finish my other coursework.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 40 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  All project functions at least partially functional;  90% complete.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  There was a problem with the code highlighter not highlighting the code properly;  this turned out to be related to the array system we were using for the code editor.  By implementing code coloring in preview mode, we were able to work around the limitation while still including code highlighting in the project.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/4/24_Week_9%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 8: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/4/10_Week_8%3A_Blog.html</link>
+      <guid isPermaLink="false">10a025aa-d3ac-4849-91d3-56c459b5c639</guid>
+      <pubDate>Thu, 10 Apr 2008 20:18:55 -0700</pubDate>
+      <description>The FTP section of my project is in high gear this week, and things are really starting to come together.  This was one of the parts that I was really worried about accomplishing, but as I have looked at more and more open-source projects, the code becomes simpler to visualize.  I think that this is one of the great things about open source software; when someone can clearly see how something works, they can then use that knowledge to form their own ideas based on that.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 30 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  FTP Section nearly complete.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  Lots of small coding problems were encountered this week, but they were just small roadblocks; completion of the FTP pane is still on track to be finished around the first week of April.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/4/10_Week_8%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 7: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/3/27_Week_7%3A_Blog.html</link>
+      <guid isPermaLink="false">66c9ef6c-5b38-4b3d-b06d-91c3bb0c75a5</guid>
+      <pubDate>Thu, 27 Mar 2008 11:06:01 -0700</pubDate>
+      <description>I had been planning on sitting down with Andrew Coile, my advisor, this week and next to talk about the Code Editor a little bit before spring break, but I have found out that he is going to be out of town;  because of this, I have shifted my efforts to doing as much of the other parts of the project as I can, to make the best use of my time.  I am finishing off the reference pane, and will complete work on the Sites and Files panes by the end of spring break;  this will give me about three weeks to work on the coding pane, and have everything ready for show on April 15th.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 20 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  More FTP Programming, Reference Programming&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  The fact that Andrew will be gone has forced me to rework my schedule a bit, but I feel this gives me a really strong workflow from now until the end of spring break, during which time i can really manage to get a lot of programming done.&lt;br/&gt;&lt;br/&gt;Reflections:   While this hasn&#x2019;t really turned out to be too much of a problem for me, it demonstrates how sometimes, unexpected consequences can get in the way of a project.  It just teaches you to always be on your feet, and to be able to improvise if something goes wrong.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/3/27_Week_7%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 6: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/3/13_Week_6%3A_Blog.html</link>
+      <guid isPermaLink="false">131fecef-5afe-4ece-845a-4a182b40d690</guid>
+      <pubDate>Thu, 13 Mar 2008 10:54:27 -0700</pubDate>
+      <description>All of my time and resources have turned to figuring out all the pieces to Codile, and I feel like the pieces of the puzzle are finally coming together.  I&#x2019;ve gotten the FTP client pretty much figured out, and I&#x2019;m almost done with programming and entry of the reference guide. As I&#x2019;ve said, my biggest worry has been the code editor, but I&#x2019;ve got things mostly figured out on that end as well.  I have found that PEAR, a PHP development site, has a code parser which i can use to color my code properly, and I have made further headway perfecting the input field systems which will be used on the editing page. &lt;br/&gt;&lt;br/&gt;Hours worked this week: 20 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  More FTP Programming, Reference Programming, Code Editor Research&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  While not a problem right now, I have been researching the code editor problems I am going to be having, so that it does not turn out to be a problem down the line.&lt;br/&gt;&lt;br/&gt;Reflections:   It really looks like everything is coming together;  for a while, I had a horrible feeling at the back of my head that I wasn&#x2019;t going to be able to get everything done this semester, but that thought has slowly faded away as I can start to see the end of my project ahead of me.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/3/13_Week_6%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 5: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/28_Week_5%3A_Blog.html</link>
+      <guid isPermaLink="false">244a4fea-2e8f-461e-90d5-2d370185ffcc</guid>
+      <pubDate>Thu, 28 Feb 2008 23:06:27 -0800</pubDate>
+      <description>This week is just more programming for Codile, although I have finished the layout and am getting into my least favorite part of programming;  the database entry and handling.  I&#x2019;m going to begin with the FTP client and work my way into the editor from there. Another challenge I am facing is integrating AJAX into my project;  its a function I&#x2019;m not very familiar with, but utilizing AJAX calls properly will really make my application a lot smoother.  Hopefully I will be able to smooth out my programming with Andrew, so that I can get this client completed and get working on the editor.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 16 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  Database structure, FTP programming&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  AJAX is the challenge of the week - the FTP client will run much faster if i can use AJAX calls for it, rather than making separate pages.&lt;br/&gt;&lt;br/&gt;Reflections:   I got an email today about graduation procedures, and it really hit me how close graduations are going to be.  While I still think that I will finish this application on time, it really makes me see how little time I have to get all of this programming done.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/28_Week_5%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 4: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/17_Week_4%3A_Blog.html</link>
+      <guid isPermaLink="false">b3352892-42d5-4850-a58a-b411bd4633d1</guid>
+      <pubDate>Sun, 17 Feb 2008 15:38:58 -0800</pubDate>
+      <description>This week I have been getting into the core programming for Codile, the &#x201C;meat and potatoes&#x201D; if you will.  I have programmed the login system, the UI framework, and started to code the FTP client.  I will want the client to be FTP and SFTP compatible, so that it can be used with encrypted servers such as CSUMB&#x2019;s home server. &lt;br/&gt;&lt;br/&gt;I will be sending the source code to Cuban Council for review and input at the end of this week.  In addition, I will be meeting with Andrew Coile, my capstone advisor, in order to look over my code and to work on the next section, the editor.  &lt;br/&gt;&lt;br/&gt;Hours worked this week: 10 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  Login form completed, iUI implemented, basic FTP framework started.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  this week was mostly finishing up what I had started in week 3, and beginning to look at how I am going to implement the code editor.  The SFTP code gave me a bit of trouble, but I think I have it all figured out now.  &lt;br/&gt;&lt;br/&gt;Reflections:   I picked such an involved capstone because I wanted the chance to learn a bit more about PHP and scripting before I left CSUMB.  As a result, already I have learned all kinds of PHP commands to help with file transfer and viewing, and I have coded this FTP editor that I had no clue how to do at the beginning of the semester.  It looks like this capstone will turn out to be the final learning experience which I had hoped for.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/17_Week_4%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 3: Blog</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/10_Week_3%3A_Blog.html</link>
+      <guid isPermaLink="false">8d3d3c02-2f5e-4d06-bc72-4ab167aed6fc</guid>
+      <pubDate>Sun, 10 Feb 2008 11:56:32 -0800</pubDate>
+      <description>The first week of application development went slowly but smoothly, I am still setting up coursework for my classes mostly, and getting everything else completed so that I can concentrate on the programming of Codile for the rest of the semester.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 14 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  Login form completed, iUI implemented, basic FTP framework started.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  there were some glitches that i had to work out with iUI, but everything seems to be working now.  The FTP framework will be the first difficult milestone that I have to complete this week, so hopefully that will go smoothly.&lt;br/&gt;&lt;br/&gt;Reflections:  This week, the majority of knowledge which I gained came from learning more about iUI and how to customize it for your application.  iUI is a web design framework made to make web sites look like they are native iPhone applications in the web browser.  Because I want to make Codile fit in with the rest of the iPhone&#x2019;s theme, I will be using iUI to mold my programming to match the design of the iPhone.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/10_Week_3%3A_Blog.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 2: Internship Proposal</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/3_Week_2%3A_Internship_Proposal.html</link>
+      <guid isPermaLink="false">06e76e64-db16-47fa-90c9-e1b140c5a3c8</guid>
+      <pubDate>Sun, 3 Feb 2008 11:49:21 -0800</pubDate>
+      <description>The internship which I will be participating in with this class is one which will be associated with my capstone project, due to be completed this semester.  Cuban Council, a web design firm in San Francisco, has asked for me to design a mobile code editor, so that they can make quick edits to websites on-the-go, if needed. I have taken the responsibility of coding this project for them as my capstone.   By the end of this internship, I should have:&lt;br/&gt;&#x2022;	A more indepth knowledge of PHP and it&#x2019;s programming abilities.&lt;br/&gt;&#x2022;	New information regarding the development of websites on mobile platforms, technologies available, limitations.&lt;br/&gt;&#x2022;	Developed a relationship with my employer to learn more about the web design industry and how an average web development firm is run.&lt;br/&gt;&#x2022;	Built a product which will be fully functional, and useable by Cuban Council for their website editing&lt;br/&gt;&lt;br/&gt;Download the full proposal here: &lt;a href="Entries/2008/2/3_Week_2%253A_Internship_Proposal_files/cst594_proposal_laskar.doc"&gt;cst594_proposal_laskar.doc&lt;/a&gt;</description>
+      <iweb:image href="Media/Picture%206.jpg"></iweb:image>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/2/3_Week_2%3A_Internship_Proposal.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 1: Introudction to Internships</title>
+      <link>http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/1/27_Week_1%3A_Internship_Proposal_%26_Introduction.html</link>
+      <guid isPermaLink="false">6966fe53-0a72-47fe-8f7a-95c8d583472f</guid>
+      <pubDate>Sun, 27 Jan 2008 13:54:33 -0800</pubDate>
+      <description>These articles have been stressing the same points throughout:  that an internship is a valuable experience, a transitionary period from being at school to being at work, and is not a position to be goofing off in, just because you might not be getting paid.  It&#x2019;s important for me to set goals to achieve during the internship, and to show the same effort that I would put into a normal job.  An internship is a window into my performance in my field, and future employment will reflect on this.  Above all, the internship is a chance to make connections in the business world, and to meet new people who can help me advance my goals;  I should take full advantage of that whenever possible.&lt;br/&gt;&lt;br/&gt;    In my internship, my primary goal is to further continue my education in php and web programming, so that I will be able to compete with my peers in the web development industry, once I graduate.  The project I am working on contains portions of code which I am still not familiar with yet, so it will allow me to learn more about them. In addition, this internship is doubling as my capstone, so it will be helping me to achieve my school-related goals also. Finally, the idea and design of my project (presented in the next post) will hopefully reflect on my web design skill, and I can use it to show future employment my expertise in the area.</description>
+      <iweb:comment link="http://www.webrender.net/CST594/CST594%3A_Internship/Entries/2008/1/27_Week_1%3A_Internship_Proposal_%26_Introduction.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>http://www.webrender.net/CST594/CST594:_Internship</iweb:baseURL>
+    <iweb:maximumSummaryItems>10</iweb:maximumSummaryItems>
+  </channel>
+</rss>

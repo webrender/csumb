@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Blog</title>
+    <link>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog</link>
+    <description></description>
+    <item>
+      <title>Week 10</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/4/24_Week_10.html</link>
+      <guid isPermaLink="false">b1f8c336-2491-46fa-860a-094700583d52</guid>
+      <pubDate>Thu, 24 Apr 2008 20:53:09 -0700</pubDate>
+      <description>WOW! It&#x2019;s definitely crunch time on my project right now, and the coding is getting hectic.  After finding a major stumbling block in the code editor, Andrew and I have managed to get around it and finish up the programming.  All that is left is bug fixes for a complete project - and, of course, all my other work.  I&#x2019;ve spent so much time on my project lately that I barely have time to finish my other coursework.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 40 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  All project functions at least partially functional;  90% complete.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  There was a problem with the code highlighter not highlighting the code properly;  this turned out to be related to the array system we were using for the code editor.  By implementing code coloring in preview mode, we were able to work around the limitation while still including code highlighting in the project.</description>
+      <iweb:comment link="file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/4/24_Week_10.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 8</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/3/24_Week_8.html</link>
+      <guid isPermaLink="false">da2e2706-a2a2-4897-a479-4ae9a408bd65</guid>
+      <pubDate>Mon, 24 Mar 2008 20:05:17 -0700</pubDate>
+      <description>The FTP section of my project is in high gear this week, and things are really starting to come together.  This was one of the parts that I was really worried about accomplishing, but as I have looked at more and more open-source projects, the code becomes simpler to visualize.  I think that this is one of the great things about open source software; when someone can clearly see how something works, they can then use that knowledge to form their own ideas based on that.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 30 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  FTP Section nearly complete.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  Lots of small coding problems were encountered this week, but they were just small roadblocks; completion of the FTP pane is still on track to be finished around the first week of April.</description>
+      <iweb:comment link="file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/3/24_Week_8.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 7</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/3/10_Journal_6.html</link>
+      <guid isPermaLink="false">6920d00d-e04d-4353-b1f1-c71710053cfe</guid>
+      <pubDate>Mon, 10 Mar 2008 20:26:52 -0700</pubDate>
+      <description>This week has just been a lot of data entry for the Reference Pane of my project. As I mentioned last week, since I will not be able to meet with Andrew until after break, I will be doing as much of the project as I can do without his help. Entering the reference guide is easy, but time consuming, so I set to that first.  I should have all the entries coded by the end of the week, and then this section will be completed.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 30 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  Reference Section completed.&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  Not so much a problem, but this part of the project is very boring - lots of data entry, no problem solving or creative design.  The reference section is just a matter of getting all the information and putting it into my database, and it is a learning experience for me at the same time, since I can do a review of my coding tags.</description>
+      <iweb:comment link="file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/3/10_Journal_6.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 6</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/3/3_Journal_5.html</link>
+      <guid isPermaLink="false">3e8be907-4c24-4777-8d12-1ec4aa653ed4</guid>
+      <pubDate>Mon, 3 Mar 2008 11:13:51 -0800</pubDate>
+      <description>I had been planning on sitting down with Andrew Coile, my advisor, this week and next to talk about the Code Editor a little bit before spring break, but I have found out that he is going to be out of town;  because of this, I have shifted my efforts to doing as much of the other parts of the project as I can, to make the best use of my time.  I am finishing off the reference pane, and will complete work on the Sites and Files panes by the end of spring break;  this will give me about three weeks to work on the coding pane, and have everything ready for show on April 15th.&lt;br/&gt;&lt;br/&gt;Hours worked this week: 20 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  More FTP Programming, Reference Programming&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  The fact that Andrew will be gone has forced me to rework my schedule a bit, but I feel this gives me a really strong workflow from now until the end of spring break, during which time i can really manage to get a lot of programming done.&lt;br/&gt;&lt;br/&gt;Reflections:   While this hasn&#x2019;t really turned out to be too much of a problem for me, it demonstrates how sometimes, unexpected consequences can get in the way of a project.  It just teaches you to always be on your feet, and to be able to improvise if something goes wrong.</description>
+      <iweb:comment link="file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/3/3_Journal_5.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <item>
+      <title>Week 5</title>
+      <link>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/2/25_Journal_4.html</link>
+      <guid isPermaLink="false">1d507fb3-08c2-4a60-affd-f28eee3d11dc</guid>
+      <pubDate>Mon, 25 Feb 2008 11:13:01 -0800</pubDate>
+      <description>All of my time and resources have turned to figuring out all the pieces to Codile, and I feel like the pieces of the puzzle are finally coming together.  I&#x2019;ve gotten the FTP client pretty much figured out, and I&#x2019;m almost done with programming and entry of the reference guide. As I&#x2019;ve said, my biggest worry has been the code editor, but I&#x2019;ve got things mostly figured out on that end as well.  I have found that PEAR, a PHP development site, has a code parser which i can use to color my code properly, and I have made further headway perfecting the input field systems which will be used on the editing page. &lt;br/&gt;&lt;br/&gt;Hours worked this week: 20 hours&lt;br/&gt;&lt;br/&gt;Milestones Accomplished:  More FTP Programming, Reference Programming, Code Editor Research&lt;br/&gt;&lt;br/&gt;Challenges/Problems:  While not a problem right now, I have been researching the code editor problems I am going to be having, so that it does not turn out to be a problem down the line.&lt;br/&gt;&lt;br/&gt;Reflections:   It really looks like everything is coming together;  for a while, I had a horrible feeling at the back of my head that I wasn&#x2019;t going to be able to get everything done this semester, but that thought has slowly faded away as I can start to see the end of my project ahead of me.</description>
+      <iweb:comment link="file://localhost/Users/jeremylaskar/Desktop/CST401/Blog/Entries/2008/2/25_Journal_4.html#comment_layer" count="0" enabled="0"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, yyyy</iweb:dateFormat>
+    <iweb:baseURL>file://localhost/Users/jeremylaskar/Desktop/CST401/Blog</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

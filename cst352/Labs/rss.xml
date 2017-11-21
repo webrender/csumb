@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>CST352: Labs</title>
+<link>http://www.techotter.com/CST352/Labs/Labs.html</link>
+<description></description>
+<generator>iWeb 1.1.2</generator>
+<image>
+<url>http://www.techotter.com/CST352/Labs/Labs_files/0181%20Adobe%20ID%20060ASPUB15640.jpg</url>
+<title>CST352: Labs</title>
+<link>http://www.techotter.com/CST352/Labs/Labs.html</link>
+</image>
+<item>
+<title>Lab 10: Using Cookies</title>
+<link>http://www.techotter.com/CST352/Labs/81121AC6-29D9-4086-90EA-C9C58E85D87B.html</link>
+<guid>http://www.techotter.com/CST352/Labs/81121AC6-29D9-4086-90EA-C9C58E85D87B.html</guid>
+<pubDate>Fri, 6 Apr 2007 15:52:43 -0700</pubDate>
+<description>Part A: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab10/cookietest.php"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab10/cookietest.php&lt;/a&gt;&#13;&#13;</description>
+</item>
+<item>
+<title>Lab 9: mysql_num_rows &amp;amp; Updating Records</title>
+<link>http://www.techotter.com/CST352/Labs/A0D0C402-28ED-4189-B1CC-FEEABCBFFFDD.html</link>
+<guid>http://www.techotter.com/CST352/Labs/A0D0C402-28ED-4189-B1CC-FEEABCBFFFDD.html</guid>
+<pubDate>Sat, 31 Mar 2007 01:15:02 -0700</pubDate>
+<description>Part A: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab09/lab9a-laskar.php"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab09/lab9a-laskar.php&lt;/a&gt;&#13;Part C: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab09/lab9c-laskar.php"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab09/lab9c-laskar.php&lt;/a&gt;&#13;</description>
+</item>
+<item>
+<title>Lab 8: Using PHP to Access MySQL</title>
+<link>http://www.techotter.com/CST352/Labs/C4D31382-BF14-48FC-B474-D4A640D69AB7.html</link>
+<guid>http://www.techotter.com/CST352/Labs/C4D31382-BF14-48FC-B474-D4A640D69AB7.html</guid>
+<pubDate>Sat, 24 Mar 2007 01:12:38 -0700</pubDate>
+<description>Tables Test: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab08/test_showtables.php"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab08/test_showtables.php&lt;/a&gt;&#13;Table Display: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab08/display_companies.php"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab08/display_companies.php&lt;/a&gt;&#13;Table Input: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab08/input_companies.php"&gt;http://itcd4.csumb.edu/~jerem&lt;/a&gt;</description>
+</item>
+<item>
+<title>Lab 7: Joins and Fulltext Searches</title>
+<link>http://www.techotter.com/CST352/Labs/3469876D-A45A-47F4-8505-17208EBD5566.html</link>
+<guid>http://www.techotter.com/CST352/Labs/3469876D-A45A-47F4-8505-17208EBD5566.html</guid>
+<pubDate>Sat, 10 Mar 2007 01:10:20 -0800</pubDate>
+<description>Zipped Contents: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab07/laskar_lab07.zip"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab07/laskar_lab07.zip&lt;/a&gt;&#13;</description>
+</item>
+<item>
+<title>Lab 6: Queries</title>
+<link>http://www.techotter.com/CST352/Labs/E3483C38-6BF6-4FBB-BCF9-AA7C7F510F16.html</link>
+<guid>http://www.techotter.com/CST352/Labs/E3483C38-6BF6-4FBB-BCF9-AA7C7F510F16.html</guid>
+<pubDate>Sun, 4 Mar 2007 01:08:49 -0800</pubDate>
+<description>Zipped Contents: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab06/lab06-laskarjeremy.zip"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab06/lab06-laskarjeremy.zip&lt;/a&gt;&#13;</description>
+</item>
+<item>
+<title>Lab 3: More Fun with Forms and PHP</title>
+<link>http://www.techotter.com/CST352/Labs/325B77D0-BE8D-4A63-9032-A45B2174466F.html</link>
+<guid>http://www.techotter.com/CST352/Labs/325B77D0-BE8D-4A63-9032-A45B2174466F.html</guid>
+<pubDate>Sat, 10 Feb 2007 01:06:10 -0800</pubDate>
+<description>Zipped Contents: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab03/lab03-laskar.zip"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab03/lab03-laskar.zip&lt;/a&gt;&#13;</description>
+</item>
+<item>
+<title>Lab 2: Arrays and Forms</title>
+<link>http://www.techotter.com/CST352/Labs/9F2DDE49-552E-447D-BE03-49F2E895B189.html</link>
+<guid>http://www.techotter.com/CST352/Labs/9F2DDE49-552E-447D-BE03-49F2E895B189.html</guid>
+<pubDate>Tue, 6 Feb 2007 12:06:59 -0800</pubDate>
+<description>Part A: http://itcd4.csumb.edu/~jeremy_laskar/lab02/lab2a-LaskarJeremy.php&#13;Part B: http://itcd4.csumb.edu/~jeremy_laskar/lab02/lab2b-LaskarJeremy.php&#13;Part C: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab02/lab2c-LaskarJeremy.php"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab0&lt;/a&gt;</description>
+</item>
+<item>
+<title>Lab 1: Introduction to PHP</title>
+<link>http://www.techotter.com/CST352/Labs/CDA0C5E2-A9FA-423B-80B6-6CD37D104E48.html</link>
+<guid>http://www.techotter.com/CST352/Labs/CDA0C5E2-A9FA-423B-80B6-6CD37D104E48.html</guid>
+<pubDate>Tue, 23 Jan 2007 11:28:53 -0800</pubDate>
+<description>URL of Lab Site: &lt;a href="http://itcd4.csumb.edu/~jeremy_laskar/lab01/index.htm"&gt;http://itcd4.csumb.edu/~jeremy_laskar/lab01/index.htm&lt;/a&gt;</description>
+</item>
+</channel>
+</rss>
